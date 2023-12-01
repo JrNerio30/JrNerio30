@@ -15,7 +15,7 @@ Check out my [Linkedin Profile](www.linkedin.com/in/fernandoneriojr) to learn mo
 * I love Cyberpunk aesthetics
 * I've built multiple computers including mine
 
-Contact Me
+🚍Contact Me
 ---
 * [Linkedin Profile](www.linkedin.com/in/fernandoneriojr)
 *  [jrnerio05@gmail.com](jrnerio05@gmail.com)
