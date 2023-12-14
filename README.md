@@ -4,7 +4,7 @@ Check out my [Linkedin Profile](www.linkedin.com/in/fernandoneriojr) to learn mo
 
 🔭 Current Task
 ---
-* I'm currently working on my [Portfolio](https://github.com/JrNerio30/Portfolio.git).
+* I'm currently working on my [Portfolio](https://github.com/JrNerio30/FNJR_Portfolio.git).
 * I'm exploring Javascript to further enhance my Web Developer skills.
 * I'm efficient with my time management skills, driven, and self-motivated to learn continuously as a Web Designer and Developer.
 * I'm also exploring graphic designs, and UX/UI to further improve my skill sets.
