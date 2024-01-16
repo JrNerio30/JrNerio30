@@ -1,4 +1,4 @@
-### Hi there, I'm Fernando👋
+# Hi there, I'm Fernando👋
 I'm an 18-year-old developer, and I'm passionate about creating a successful and accessible website.
 Check out my [Linkedin Profile](www.linkedin.com/in/fernandoneriojr) to learn more about me and to stay updated.
 
