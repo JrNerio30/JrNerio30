@@ -1,20 +1,20 @@
 # Hi there, I'm Fernando👋
 
-* Result-oriented and highly motivated Web-Developer, currently taking Web-Design and Development in SAIT and expected to graduate in April 2025.
+* Result-oriented and highly motivated Web-Developer, currently taking Web Design and Development in SAIT and expected to graduate in April 2025.
 
 ## Key Skills
 * Self-Motivation
 * Time Management
 * Adaptability
 * Communication Skills
-## Technical Skill
-[![My Skills](https://skillicons.dev/icons?i=js,html,sass,css)](https://skillicons.dev)
+## Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=git,js,html,sass,css)](https://skillicons.dev)
 
 # About Me
 ### 🔭 Current Task
 * I'm currently working on my [Portfolio](https://github.com/JrNerio30/FNJR_Portfolio.git).
 * I'm exploring Javascript to further enhance my Web Developer skills.
-* I'm currently learning/practicing SASS with its amazing features while also improving my CSS skills along the way.
+* I'm currently learning/practicing SASS with its amazing features while improving my CSS skills.
 * I'm efficient with my time management skills, driven, and self-motivated to learn continuously as a Web Designer and Developer.
 * I'm also exploring graphic designs, and UX/UI to further improve my skill sets.
 
