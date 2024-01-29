@@ -8,7 +8,7 @@
 * Adaptability
 * Communication Skills
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=git,js,html,sass,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,js,html,css,sass)](https://skillicons.dev)
 
 # About Me
 ### 🔭 Current Task
