@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **fernando.nerio30@gmail.com**
 
-- ⚡ Fun fact **Jujutsu Kaisen is my favorite Animanga, Berserk is my favorite manga and Solo Levelling is my favorite Manwha. I really love Cyberpunk aesthetics**
+- ⚡ Fun fact **Jujutsu Kaisen is my favorite Animanga, Berserk is my favorite manga and Solo Levelling is my favorite Manwha. I really love Cyberpunk aesthetics. I love designing logos, any logos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
