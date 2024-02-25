@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Coding Demo](https://jrnerio30.github.io/Coding-Demo/)
 
-- 🌱 I’m currently learning **More about JavaScript, CSS and Docker.**
+- 🌱 I’m currently learning **More about JavaScript/TypeScript, specifically functions and data structures**
 
 - 📫 How to reach me **fernando.nerio30@gmail.com**
 
