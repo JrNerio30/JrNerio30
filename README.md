@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Coding Demo](https://jrnerio30.github.io/Coding-Demo/)
+- 🔭 I’m currently working on [Coding Demo](https://github.com/JrNerio30/Coding-Demo.git)
 
 - 🌱 I’m currently learning **More about JavaScript/TypeScript, specifically functions and data structures**
 
