@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **Jujutsu Kaisen is my favorite Animanga, Berserk is my favorite manga and Solo Levelling is my favorite Manwha. I love Cyberpunk aesthetics**
 
+- 📝 I want master **Gsap JavaScript Animation this year**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fernando nerio jr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando nerio jr" height="30" width="40" /></a>
