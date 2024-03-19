@@ -1,4 +1,4 @@
-<h1 align="center">Hi hello👋, I'm Fernando</h1>
+<h1 align="center">Hi hello world👋, I'm Fernando</h1>
 <h3 align="center">A passionate and highly motivated Web-Design and Developer Student from Sait Calgary, AB. Canada.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jrnerio30&label=Profile%20views&color=0e75b6&style=flat" alt="jrnerio30" /> </p>
