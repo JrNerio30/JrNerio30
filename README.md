@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on a made-up furniture company name [Urban Zenith Designs](https://github.com/JrNerio30/UrbanZenith-Designs.git). The languages and tools that I'm going to be using is figma for wireframing, moodboards, and designs. HTML, CSS and JavaScript for programming languages.
+- 🔭 I’m currently working on my [Portfolio](https://github.com/JrNerio30/Portfolio). The languages and tools that I'm going to be using is figma for wireframing, moodboards, and designs. HTML, CSS and JavaScript for programming languages.
 
 - 🌱 I’m currently learning **More about JavaScript/TypeScript, specifically functions and data structures**
 
