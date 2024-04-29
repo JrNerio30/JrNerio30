@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on practising [REACRT](https://github.com/JrNerio30/React-Practise.git). From summer break, April 27th till the start of my second year as a Web Design and Development. I'm also learning and using VIM at the same time😄.
+- 🔭 I’m currently working on practising [REACT](https://github.com/JrNerio30/React-Practise.git). From summer break, April 27th till the start of my second year as a Web Design and Development. I'm also learning and using VIM at the same time😄.
 
 - 🌱 I’m currently learning **More about JavaScript/TypeScript, specifically functions and data structures**
 
