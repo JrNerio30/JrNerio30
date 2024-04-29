@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on my [Portfolio](https://github.com/JrNerio30/Portfolio). The languages and tools that I'm going to be using is figma for wireframing, moodboards, and designs. HTML, CSS and JavaScript for programming languages.
+- 🔭 I’m currently working on practising [REACRT](https://github.com/JrNerio30/React-Practise.git). From summer break, April 27th till the start of my second year as a Web Design and Development. I'm also learning and using VIM at the same time😄.
 
 - 🌱 I’m currently learning **More about JavaScript/TypeScript, specifically functions and data structures**
 
